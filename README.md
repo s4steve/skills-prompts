@@ -15,6 +15,7 @@ knowledge/    Notes, patterns, and references on working with AI systems.
 
 ## Contents
 
+- `skills/feature-brainstorm` — structured brainstorming session that funnels from product areas to a shortlist of buildable features, written to a markdown file.
 - `skills/steve-blog` — voice and style guide for writing "Schrodingers Engineer" blog posts.
 
 ## Conventions
