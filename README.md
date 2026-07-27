@@ -17,6 +17,7 @@ knowledge/    Notes, patterns, and references on working with AI systems.
 
 - `skills/feature-brainstorm` — structured brainstorming session that funnels from product areas to a shortlist of buildable features, written to a markdown file.
 - `skills/steve-blog` — voice and style guide for writing "Schrodingers Engineer" blog posts.
+- `skills/mockup-redesign` — build a page section from an Illustrator mockup, with a pre-flight checklist (layout, background, photos, icons) and a fixed verification workflow (typecheck, lint, screenshot diff, tests, commit).
 
 ## Conventions
 
